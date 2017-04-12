@@ -6,7 +6,7 @@ public class Anagrams{
 			System.out.println("Strings are NOT Anagrams!");
 		}else{
 			if(!checkAnagrams(s1,s2))
-				System.out.println("Strings are NOT Anagrams!");
+				System.out.println("Strings are NOT Anagrams***********!");
 			else
 				System.out.println("Strings are Anagrams!");
 		}
