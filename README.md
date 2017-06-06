@@ -1,1 +1,1 @@
-This Project Manipulates String Class uses in different manners.
+This Project Manipulates String Class uses in different manners
